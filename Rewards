@@ -1,0 +1,36 @@
+{
+  "users": [
+    {
+      "emailOrId": "test@example.com",
+      "userName": "John Doe",
+      "rewards": {
+        "whatsapp_channel": 100,
+        "telegram_group": 100,
+        "whatsapp_group": 100,
+        "facebook_page": 100,
+        "instagram": 100,
+        "referralRewards": 10
+      },
+      "joinedChannels": ["whatsapp_channel", "telegram_group"],
+      "expiryDate": "2025-12-31 23:59:59",
+      "referralCode": "REF123",
+      "uplineReferralCode": "NONE"
+    },
+    {
+      "emailOrId": "jane@example.com",
+      "userName": "Jane Smith",
+      "rewards": {
+        "whatsapp_channel": 10,
+        "telegram_group": 15,
+        "whatsapp_group": 12,
+        "facebook_page": 8,
+        "instagram": 10,
+        "referralRewards": 10
+      },
+      "joinedChannels": ["facebook_page", "instagram"],
+      "expiryDate": "2025-12-31 23:59:59",
+      "referralCode": "REF789",
+      "uplineReferralCode": "NONE"
+    }
+  ]
+}
