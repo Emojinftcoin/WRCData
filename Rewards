@@ -16,7 +16,8 @@
       "expiryDate": "2025-12-31 23:59:59",
       "startDate": "2025-06-23 23:59:59",
       "referralCode": "REF123",
-      "uplineReferralCode": "NONE"
+      "uplineReferralCode": "NONE",
+      "message": "Join our community events for bonus rewards!"
     },
     {
       "emailOrId": "jane@example.com",
@@ -34,7 +35,8 @@
       "expiryDate": "2025-12-31 23:59:59",
       "startDate": "2025-06-23 23:59:59",
       "referralCode": "REF789",
-      "uplineReferralCode": "NONE"
+      "uplineReferralCode": "NONE",
+      "message": "Join our community events for bonus rewards!"
     }
   ]
 }
