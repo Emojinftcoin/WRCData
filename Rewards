@@ -20,23 +20,23 @@
       "message": "You may Get more  bonus rewards by join our other Social Media !"
     },
     {
-      "emailOrId": "jane@example.com",
-      "userName": "Jane Smith",
+      "emailOrId": "sunilsawant7489@gmail.com",
+      "userName": "Sunil Sawant",
       "rewards": {
-        "whatsapp_channel": 10,
-        "telegram_group": 15,
-        "whatsapp_group": 12,
-        "facebook_page": 8,
-        "instagram": 10,
-        "referralReward": 50
+        "whatsapp_channel": 100,
+        "telegram_group": 0,
+        "whatsapp_group": 0,
+        "facebook_page": 0,
+        "instagram": 0,
+        "referralReward": 0
        
       },
       "joinedChannels": ["facebook_page", "instagram"],
-      "expiryDate": "2025-12-31 23:59:59",
-      "startDate": "2025-06-23 23:59:59",
-      "referralCode": "REF789",
-      "uplineReferralCode": "NONE",
-      "message": "Join our community events for bonus rewards!"
+      "expiryDate": "2026-08-27 18:45:59",
+      "startDate": "2025-06-24 18:44:59",
+      "referralCode": "REF1240",
+      "uplineReferralCode": "REF1228",
+      "message": "You may Get more  bonus rewards by join our other Social Media!"
     }
   ]
 }
