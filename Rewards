@@ -8,8 +8,8 @@
         "telegram_group": 100,
         "whatsapp_group": 100,
         "facebook_page": 100,
-        "instagram": 100,
-        "referralRewards": 10
+        "instagram": 100
+        
       },
       "joinedChannels": ["whatsapp_channel", "telegram_group"],
       "expiryDate": "2025-12-31 23:59:59",
@@ -24,8 +24,8 @@
         "telegram_group": 15,
         "whatsapp_group": 12,
         "facebook_page": 8,
-        "instagram": 10,
-        "referralRewards": 10
+        "instagram": 10
+       
       },
       "joinedChannels": ["facebook_page", "instagram"],
       "expiryDate": "2025-12-31 23:59:59",
