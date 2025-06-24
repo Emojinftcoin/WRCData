@@ -37,6 +37,25 @@
       "referralCode": "REF1240",
       "uplineReferralCode": "REF1228",
       "message": "You may Get more  bonus rewards by join our other Social Media!"
+    },
+    
+    { "emailOrId": "Ravigupta750593@gmail.com",
+      "userName": "Ravi Gupta",
+      "rewards": {
+        "whatsapp_channel": 100,
+        "telegram_group": 0,
+        "whatsapp_group": 0,
+        "facebook_page": 0,
+        "instagram": 0,
+        "referralReward": 0
+       
+      },
+      "joinedChannels": ["facebook_page", "instagram"],
+      "expiryDate": "2026-08-27 18:45:59",
+      "startDate": "2025-06-24 21:44:59",
+      "referralCode": "REF1241",
+      "uplineReferralCode": "REF1228",
+      "message": "You may Get more  bonus rewards by join our other Social Media!"
     }
   ]
-}
+} 
