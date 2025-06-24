@@ -4,7 +4,7 @@
       "emailOrId": "test@example.com",
       "userName": "John Doe",
       "rewards": {
-        "whatsapp_channel": 100,
+        "whatsapp_channel": 10,
         "telegram_group": 100,
         "whatsapp_group": 100,
         "facebook_page": 100,
